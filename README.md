@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=230&section=header&text=Aditi%20Sah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">✨ Data Analytics Engineer | Python Developer | Data Scientist ✨</h2>
+<h2 align="center"> Data Analytics Engineer | Python Developer | Data Scientist </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insights+%F0%9F%93%8A;Building+Python+Solutions+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A4%96;Creating+Dashboards+%26+Visualizations+%F0%9F%93%88;Growing+Everyday+as+a+Developer+%F0%9F%9A%80" />
@@ -17,10 +17,10 @@
 ---
 
 ## 👩‍💻 About Me
-Hi 👋 I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.  
+Hi  I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.  
 I love working on real-world datasets, building insights, and creating meaningful solutions using data 💡✨  
 
-🌟 **What I enjoy:**
+ **What I enjoy:**
 - 📊 Data Analysis & Business Insights  
 - 🧹 Data Cleaning & Preprocessing  
 - 📈 Dashboards & Data Storytelling  
@@ -71,12 +71,7 @@ I love working on real-world datasets, building insights, and creating meaningfu
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -102,15 +97,8 @@ I love working on real-world datasets, building insights, and creating meaningfu
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 🌍 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiksah">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
