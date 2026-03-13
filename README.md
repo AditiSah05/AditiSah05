@@ -35,13 +35,13 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 
 ## 🚀 Core Skills
 
-✅ **Data Analytics & Business Intelligence**
+🔹 **Data Analytics & Business Intelligence**
 Exploratory Data Analysis (EDA) • Data Cleaning & Preprocessing • KPI Tracking • Statistical Analysis • Data Visualization • Insight Generation
 
-✅ **Python & Data Engineering**
-Python Programming • Data Manipulation (Pandas, NumPy) • Automation & Scripting • Basic Data Pipelines • API Integration • Data Processing Workflows
+🔹 **Python & Data Engineering**
+Python Programming • Data Manipulation (Pandas, NumPy) • Automation & Scripting • Basic Data Pipelines • API Integration
 
-✅ **Machine Learning & Data Science**
+🔹 **Machine Learning & Data Science**
 Feature Engineering • Model Development • Supervised & Unsupervised Learning • Model Evaluation • Hyperparameter Tuning • Predictive Modeling
 
 ---
