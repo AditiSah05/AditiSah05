@@ -44,7 +44,6 @@ I love working on real-world datasets, building insights, and creating meaningfu
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 📊 Data Analytics Tools
