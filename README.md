@@ -16,16 +16,20 @@
 
 ---
 
-## 👩‍💻 About Me
-Hi  I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.  
-I love working on real-world datasets, building insights, and creating meaningful solutions using data 💡✨  
+## About Me
 
- **What I enjoy:**
-- 📊 Data Analysis & Business Insights  
-- 🧹 Data Cleaning & Preprocessing  
-- 📈 Dashboards & Data Storytelling  
-- 🐍 Python Automation & Scripting  
-- 🤖 Machine Learning Models  
+Hi, I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.
+I enjoy working with real-world datasets, discovering insights, and building meaningful data-driven solutions.
+
+I like transforming raw data into **clear insights, visualizations, and predictive models** that help solve real problems.
+
+### What I Enjoy
+
+📊 Data Analysis & Business Insights
+🧹 Data Cleaning & Data Preprocessing
+📈 Data Visualization & Dashboard Creation
+🐍 Python Automation & Scripting
+🤖 Machine Learning Model Development
 
 ---
 
