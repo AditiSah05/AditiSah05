@@ -10,8 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=4F46E5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AditiSah05&label=Profile%20Views&color=4F46E5&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Projects-9333EA?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiSah05&show_icons=true&theme=gradient&hide_border=true&bg_color=1a1a2e&title_color=4F46E5&icon_color=9333EA" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSah05&layout=compact&theme=gradient&hide_border=true&bg_color=1a1a2e&title_color=4F46E5&icon_color=9333EA&langs_count=6" height="180" alt="languages graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiSah05&theme=gradient&hide_border=true&background=1a1a2e&stroke=4F46E5&ring=9333EA&fire=9333EA&currStreakNum=4F46E5&sideNums=4F46E5&currStreakLabel=4F46E5&sideLabels=4F46E5&dates=9333EA" alt="streak graph" />
 </p>
 
 ---
