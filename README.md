@@ -98,10 +98,13 @@ I love working on real-world datasets, building insights, and creating meaningfu
 ---
 
 
-##  Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiksah">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/unknown_hemmaaa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:aditisah2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
