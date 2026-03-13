@@ -16,6 +16,13 @@
 
 ---
 
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiSah05&theme=react-dark&bg_color=1a1a2e&color=4F46E5&line=9333EA&point=4F46E5&hide_border=true" alt="contribution graph" />
+</p>
+
+---
+
 ## About Me
 
 Hi, I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.
