@@ -63,7 +63,14 @@ I love working on real-world datasets, building insights, and creating meaningfu
   <img src="https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
-### 🛠 Developer Tools
+### 🗄️ Database & Storage
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+###  Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
