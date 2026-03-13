@@ -151,7 +151,9 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 ---
 
 ## 💡 Quote I Believe In
+>
 > **"Without data, you're just another person with an opinion."**
+>
 > — W. Edwards Deming 📊
 
 ---
