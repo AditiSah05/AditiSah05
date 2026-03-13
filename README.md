@@ -26,9 +26,13 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 ### What I Enjoy
 
 📊 Data Analysis & Business Insights
+
 🧹 Data Cleaning & Data Preprocessing
+
 📈 Data Visualization & Dashboard Creation
+
 🐍 Python Automation & Scripting
+
 🤖 Machine Learning Model Development
 
 ---
