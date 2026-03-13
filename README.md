@@ -59,6 +59,9 @@ I love working on real-world datasets, building insights, and creating meaningfu
 ### 🤖 Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
