@@ -146,6 +146,9 @@ I like transforming raw data into **clear insights, visualizations, and predicti
   <a href="mailto:aditisah2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/aditi_0647s/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
