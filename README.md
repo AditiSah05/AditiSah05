@@ -135,14 +135,6 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 ---
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AditiSah05/AditiSah05/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiksah">
