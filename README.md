@@ -113,7 +113,22 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 ---
 
 ## 📌 Featured Projects
+✨ Some categories of my work:
 
+📊 **Data Analytics**
+- EDA + Business Insights  
+- Dashboard Reports  
+- KPI Analysis  
+
+🐍 **Python Projects**
+- Automation Scripts  
+- Data Cleaning Pipelines  
+- Mini Apps  
+
+🤖 **Machine Learning**
+- Classification Models  
+- Regression Models  
+- Prediction Systems  
 
 📌 *Check my repositories for more projects!* ⭐
 
