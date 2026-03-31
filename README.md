@@ -138,15 +138,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSah05&layout=compact&theme=tokyonight&bg_color=111827&title_color=9333EA&text_color=ffffff&border_color=4F46E5&hide_border=false&langs_count=8" />
-</p>
-
----
-
-## 💡 Quote I Believe In
+## � Quote I Believe In
 >
 > **"Without data, you're just another person with an opinion."**
 >
