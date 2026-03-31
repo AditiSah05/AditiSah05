@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
 Hi, I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.
 I enjoy working with real-world datasets, discovering insights, and building meaningful data-driven solutions.
@@ -98,7 +98,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-###  Developer Tools
+### 🛠️ Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -107,8 +107,6 @@ I like transforming raw data into **clear insights, visualizations, and predicti
   <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-
 
 ---
 
@@ -134,8 +132,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 
 ---
 
-
-## Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiksah">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -153,7 +150,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 
 ---
 
-## � Quote I Believe In
+## 💡 Quote I Believe In
 >
 > **"Without data, you're just another person with an opinion."**
 >
@@ -164,5 +161,4 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer" />
-</p> 
- 
+</p>
