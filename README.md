@@ -113,22 +113,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 ---
 
 ## 📌 Featured Projects
-✨ Some categories of my work:
 
-📊 **Data Analytics**
-- EDA + Business Insights  
-- Dashboard Reports  
-- KPI Analysis  
-
-🐍 **Python Projects**
-- Automation Scripts  
-- Data Cleaning Pipelines  
-- Mini Apps  
-
-🤖 **Machine Learning**
-- Classification Models  
-- Regression Models  
-- Prediction Systems  
 
 📌 *Check my repositories for more projects!* ⭐
 
@@ -153,7 +138,7 @@ I like transforming raw data into **clear insights, visualizations, and predicti
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSah05&layout=compact&theme=tokyonight&bg_color=111827&title_color=9333EA&text_color=ffffff&border_color=4F46E5&hide_border=false&langs_count=8" />
