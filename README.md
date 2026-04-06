@@ -65,29 +65,23 @@ me = {
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-
-| Category | Tools | Description |
-|----------|-------|-------------|
-| 💻 **Languages** | Python, C, C++, JavaScript | Core programming fundamentals |
-
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ### 📊 Data Analytics Tools
-
-| Category | Tools | Description |
-|----------|-------|-------------|
-| 📊 **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, SciPy, Tableau, Excel, Power BI | Data manipulation, visualization & BI dashboards |
-
 <p>
   <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -95,41 +89,32 @@ me = {
 </p>
 
 ### 🤖 Machine Learning
-
-| Category | Tools | Description |
-|----------|-------|-------------|
-| 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, PyTorch, XGBoost, Statistics | ML models, deep learning & predictive analytics |
-
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
 ### 🗄️ Database & Storage
-
-| Category | Tools | Description |
-|----------|-------|-------------|
-| 🗄️ **Database & Storage** | MongoDB, PostgreSQL, MySQL | Data storage, retrieval & NoSQL/SQL databases |
-
 <p>
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🛠️ Developer Tools
-
-| Category | Tools | Description |
-|----------|-------|-------------|
-| 🛠️ **Developer Tools** | Git, GitHub, Jupyter, Colab, Kaggle, VS Code | Development, collaboration & experimentation |
-
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Google%20Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
