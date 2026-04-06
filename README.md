@@ -64,61 +64,51 @@ me = {
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### 📊 Data Analytics Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
+### 💻 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 
-### 🤖 Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-</p>
+### 📊 **Data Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
+![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![SciPy](https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=white&labelColor=000000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000)
 
-### 🗄️ Database & Storage
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</td>
+<td width="50%">
 
-### 🛠️ Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Google%20Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### 🤖 **Machine Learning**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F4D2F?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=000000)
+
+### 🗄️ **Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+
+### 🛠️ **Developer Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
+
+</td>
+</tr>
+</table>
 
 ---
 
