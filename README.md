@@ -18,18 +18,37 @@
 
 ## 👤 About Me
 
-Hi, I'm **Aditi Sah** — passionate about **Data Analytics, Python Development, and Machine Learning**.
-I enjoy working with real-world datasets, discovering insights, and building meaningful data-driven solutions.
+Hi, I'm **Aditi Sah** — a passionate Data Analytics Engineer who loves turning raw data into actionable insights. 🌟
 
-I like transforming raw data into **clear insights, visualizations, and predictive models** that help solve real problems.
+```python
+import pandas as pd
+import numpy as np
+from datetime import datetime
 
-### What I Enjoy
+class DataStoryteller:
+    def __init__(self):
+        self.name = "Aditi Sah"
+        self.role = "Data Analytics Engineer | Python Developer"
+        self.focus = ["EDA & Business Insights", "ML Models", "Dashboards"]
+        self.daily_routine = {
+            "morning": "☕ Coffee + Kaggle Exploration",
+            "afternoon": "📊 Building Visualizations + Insights",
+            "evening": "🤖 Training ML Models",
+            "night": "🐍 Writing Python Scripts"
+        }
+    
+    def transform(self, data):
+        """Turn raw data into meaningful insights"""
+        cleaned = data.clean().analyze()
+        insights = cleaned.visualize()
+        return insights
+    
+    def learn(self):
+        return "Always growing in ML & Data Science 🚀"
 
-- 📊 Data Analysis & Business Insights
-- 🧹 Data Cleaning & Data Preprocessing
-- 📈 Data Visualization & Dashboard Creation
-- 🐍 Python Automation & Scripting
-- 🤖 Machine Learning Model Development
+me = DataStoryteller()
+print(f"Mission: {me.transform('raw_data')} 🔍")
+```
 
 ---
 
