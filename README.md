@@ -65,6 +65,11 @@ me = {
 ## 🧰 Tech Stack
 
 ### 💻 Languages
+
+| Category | Tools | Description |
+|----------|-------|-------------|
+| 💻 **Languages** | Python, C, C++, JavaScript | Core programming fundamentals |
+
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
@@ -73,6 +78,11 @@ me = {
 </p>
 
 ### 📊 Data Analytics Tools
+
+| Category | Tools | Description |
+|----------|-------|-------------|
+| 📊 **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, SciPy, Tableau, Excel, Power BI | Data manipulation, visualization & BI dashboards |
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -85,6 +95,11 @@ me = {
 </p>
 
 ### 🤖 Machine Learning
+
+| Category | Tools | Description |
+|----------|-------|-------------|
+| 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, PyTorch, XGBoost, Statistics | ML models, deep learning & predictive analytics |
+
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -94,6 +109,11 @@ me = {
 </p>
 
 ### 🗄️ Database & Storage
+
+| Category | Tools | Description |
+|----------|-------|-------------|
+| 🗄️ **Database & Storage** | MongoDB, PostgreSQL, MySQL | Data storage, retrieval & NoSQL/SQL databases |
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -101,6 +121,11 @@ me = {
 </p>
 
 ### 🛠️ Developer Tools
+
+| Category | Tools | Description |
+|----------|-------|-------------|
+| 🛠️ **Developer Tools** | Git, GitHub, Jupyter, Colab, Kaggle, VS Code | Development, collaboration & experimentation |
+
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
