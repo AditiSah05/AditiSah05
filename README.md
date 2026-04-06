@@ -69,42 +69,42 @@ me = {
 <td width="50%">
 
 ### 💻 **Languages**
-![Python](https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/C-4F46E5?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-4F46E5?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
 
 ### 📊 **Data Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-4F46E5?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4F46E5?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
-![Seaborn](https://img.shields.io/badge/Seaborn-4F46E5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![SciPy](https://img.shields.io/badge/SciPy-4F46E5?style=for-the-badge&logo=scipy&logoColor=white&labelColor=000000)
-![Tableau](https://img.shields.io/badge/Tableau-4F46E5?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000)
-![Excel](https://img.shields.io/badge/Excel-4F46E5?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000)
-![Power BI](https://img.shields.io/badge/Power%20BI-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
+![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![SciPy](https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=white&labelColor=000000)
+![Tableau](https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000)
+![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000)
+![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)
 
 </td>
 <td width="50%">
 
 ### 🤖 **Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
-![XGBoost](https://img.shields.io/badge/XGBoost-4F46E5?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=000000)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
+![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=000000)
 
 ### 🗄️ **Database & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-4F46E5?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-4F46E5?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 
 ### 🛠️ **Developer Tools**
-![Git](https://img.shields.io/badge/Git-4F46E5?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-4F46E5?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-4F46E5?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
-![Kaggle](https://img.shields.io/badge/Kaggle-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS%20Code-4F46E5?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
+![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
 
 </td>
 </tr>
