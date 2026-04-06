@@ -33,8 +33,6 @@ me = {
 }
 ```
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aditiksah) • [Twitter](https://x.com/unknown_hemmaaa) • [Email](mailto:aditisah2005@gmail.com)
-
 ---
 
 ## 🚀 Core Skills
