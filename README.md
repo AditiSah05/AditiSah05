@@ -18,37 +18,22 @@
 
 ## 👤 About Me
 
-Hi, I'm **Aditi Sah** — a passionate Data Analytics Engineer who loves turning raw data into actionable insights. 🌟
+💜 **Aditi Sah** — Data Analytics Engineer & Python Developer  
+📊 Turning data into insights | 🤖 Building ML models | 📈 Creating dashboards
 
 ```python
-import pandas as pd
-import numpy as np
-from datetime import datetime
-
-class DataStoryteller:
-    def __init__(self):
-        self.name = "Aditi Sah"
-        self.role = "Data Analytics Engineer | Python Developer"
-        self.focus = ["EDA & Business Insights", "ML Models", "Dashboards"]
-        self.daily_routine = {
-            "morning": "☕ Coffee + Kaggle Exploration",
-            "afternoon": "📊 Building Visualizations + Insights",
-            "evening": "🤖 Training ML Models",
-            "night": "🐍 Writing Python Scripts"
-        }
-    
-    def transform(self, data):
-        """Turn raw data into meaningful insights"""
-        cleaned = data.clean().analyze()
-        insights = cleaned.visualize()
-        return insights
-    
-    def learn(self):
-        return "Always growing in ML & Data Science 🚀"
-
-me = DataStoryteller()
-print(f"Mission: {me.transform('raw_data')} 🔍")
+me = {
+    "role": "Data Analytics Engineer | Python Developer",
+    "location": "India 🇮🇳",
+    "education": "Data Science & Analytics",
+    "love": ["📊 EDA & Insights", "🤖 ML Models", "🐍 Python Scripts", "📈 Dashboards"],
+    "stack": ["Pandas", "NumPy", "Tableau", "Scikit-Learn", "Power BI"],
+    "currently": "Learning ML & Building Analytics Projects",
+    "goal": "Turning Data Into Impact 🚀"
+}
 ```
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aditiksah) • [Twitter](https://x.com/unknown_hemmaaa) • [Email](mailto:aditisah2005@gmail.com)
 
 ---
 
