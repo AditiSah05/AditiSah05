@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=230&section=header&text=Aditi%20Sah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center"> Data Analytics Engineer | Python Developer | Data Scientist </h2>
+<h2 align="center"> Data Analytics Engineer | Frontend Developer | Data Scientist </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insights+%F0%9F%93%8A;Building+Python+Solutions+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A4%96;Creating+Dashboards+%26+Visualizations+%F0%9F%93%88;Growing+Everyday+as+a+Developer+%F0%9F%9A%80" />
@@ -18,12 +18,12 @@
 
 ## 👤 About Me
 
-💜 **Aditi Sah** — Data Analytics Engineer & Python Developer  
+💜 **Aditi Sah** — Data Analytics Engineer & Frontend Developer  
 📊 Turning data into insights | 🤖 Building ML models | 📈 Creating dashboards
 
 ```python
 me = {
-    "role": "Data Analytics Engineer | Python Developer",
+    "role": "Data Analytics Engineer | Frontend Developer",
     "location": "India 🇮🇳",
     "education": "Data Science & Analytics",
     "love": ["📊 EDA & Insights", "🤖 ML Models", "🐍 Python Scripts", "📈 Dashboards"],
