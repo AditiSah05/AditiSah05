@@ -146,7 +146,7 @@ me = {
   <a href="mailto:aditisah2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aditi_0647s/">
+  <a href="https://www.instagram.com/whtf.aditi/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
